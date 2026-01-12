@@ -19737,6 +19737,11 @@ hash = "4dabc9813d1d0936afddc2608bfd3a9f1fd30f9dc821ac80450112d9e6a66968"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4ed3bf205c8f6aa985b33a4cd082a519f7f9dc764d1dcee7e560668818690549"
+metafile = true
+
+[[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "a3af7a5a94246bf48d3e290994b01fb3144b4d19fc7fbfa776e6ec2f119d9f9e"
 metafile = true
