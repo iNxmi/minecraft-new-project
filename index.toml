@@ -38,7 +38,7 @@ hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "b96dd46e8c798db3a12f9eee921827617b0057a821e88628b980a36495ada524"
+hash = "84a69b971731ca64215fea17cbe2f521d3b1f1955f057f4588dd1ebdd1574734"
 
 [[files]]
 file = "alexs-mobs-compat.pw.toml"
@@ -18517,6 +18517,11 @@ hash = "c45dce6b9e52796c0606ff222efa5833fd1d420fa67e7a8f26852196b80f6fa5"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "2ffdb2a62d0d79612064acf878aa7075a18030d9b1315099f2b9d6b89029951b"
+metafile = true
+
+[[files]]
 file = "mods/certain-questing-additions.pw.toml"
 hash = "c7814e553c68517b310964b3a52401c413a3d685d0e9577fe3ec2d0803057ac3"
 metafile = true
@@ -18689,6 +18694,46 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "fee58a333eaf51d4862fee34fe8ba7cb70140500023e06aca3c9fcf0e0f34719"
+metafile = true
+
+[[files]]
+file = "mods/create-escalated.pw.toml"
+hash = "c6662c88657d43c539c4094e26f7c3ae9fd84a707c8a7bbd3737ee74839f45c9"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "53d4c60fdfa2bccaca8498bf04f29f65fcc39720a0f2dbf8b46d3d0fd46d3741"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+hash = "ca274f1a31ba6fdf3ce7fc4a14e5d6ffcaa19c711595d98d87deb1d9fe365727"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "fc77e6c318e39dbf41c7ffc6d08fb913b1937603331648a6ac262eb613d1a51c"
+metafile = true
+
+[[files]]
+file = "mods/create-o-plenty.pw.toml"
+hash = "7bc1cd0684f4dfd755f5528dfa953f2488af020886ae57b4407c51e47ea379b2"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "ee9417795c7c0bca896da710a8bbcc51bdc21fe2502ecc1f8793ffe3394b8fd6"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "6d260acf3e0895127de36eac4799df39beb299ca7d13a059138aeba118a54667"
+metafile = true
+
+[[files]]
+file = "mods/create-tweaked-controllers.pw.toml"
+hash = "91354129d4adaf2982fbf6d975331067ad39a6e408de32383ea8ff65a3c71e7a"
 metafile = true
 
 [[files]]
@@ -19137,6 +19182,11 @@ hash = "3435f5b8a9cb39cb372ce8053b60a12c6930350644212065e11e37e637118de7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "82f389d06c0e19d2ffcd75d5d85e0d9f09ec17178b8dd3e5afe9350a271e0443"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armor-hud.pw.toml"
 hash = "3c299aad2357e869a65109668c66ae63d4af84675ae00e7e979eeeeb5c1880fa"
 metafile = true
@@ -19164,6 +19214,11 @@ metafile = true
 [[files]]
 file = "mods/incubation.pw.toml"
 hash = "c719b8544ba27e3a76aaeb20e198895a5ddca787ac21e36c9a477ace389395bd"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "f23d2a15fbf156b95e4e24fc3851cb04075fed5c318dfcd650d2a03107c6c23d"
 metafile = true
 
 [[files]]
@@ -19327,13 +19382,13 @@ hash = "342689b81a6bc7d3aa79b4610b79c88cddfdbd17e9f0dac77c6a975e51033cc1"
 metafile = true
 
 [[files]]
-file = "mods/melody.pw.toml"
-hash = "fd35d7099794d66a253c6a1e2ddc3b9d960bde0fd77da4567f31342d21198382"
+file = "mods/man-of-many-planes.pw.toml"
+hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
 metafile = true
 
 [[files]]
-file = "mods/memory-settings.pw.toml"
-hash = "2220bcd47969d2803a52c0ebd1518abf0401eea03bada52f1739e9044818a4fe"
+file = "mods/melody.pw.toml"
+hash = "fd35d7099794d66a253c6a1e2ddc3b9d960bde0fd77da4567f31342d21198382"
 metafile = true
 
 [[files]]
