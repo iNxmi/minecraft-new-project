@@ -19902,11 +19902,6 @@ hash = "8ed782a78fb5d9bb08954a564e641dfe62cdb1ae1b178364e544c0e436d9035e"
 metafile = true
 
 [[files]]
-file = "mods/umbral-skies.pw.toml"
-hash = "f3387c66a4fb3f7fbf10b3c63c818b1231792c55ce8122fa04bd171f0411310f"
-metafile = true
-
-[[files]]
 file = "mods/underlay.pw.toml"
 hash = "33c4d9bdb85efa9b277a369c85e67728477505f8518124f568a1053ca1d07650"
 metafile = true
