@@ -18907,6 +18907,11 @@ hash = "20d00c7bf6223f77f1777e312b4112690365c5990ae0d6411996859db453e385"
 metafile = true
 
 [[files]]
+file = "mods/endremastered.pw.toml"
+hash = "3133aa811dfdddaf1fb5744776385bdaf13a2bf2f7ca1e750347f2cd54d8a214"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "8b5f5b6a17242c5f61c8b7996231b543f8f30e103f47f0a8bc8fe727963ca6d1"
 metafile = true
