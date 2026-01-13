@@ -18812,6 +18812,11 @@ hash = "101318e5961966ea964a6f0f22fcbbae0af21e09b5cfb8566e12861e5d8aef5f"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "a5dc56f4070b9f8286663b99b6999e53ca28c499531eea3571aa1787454a0901"
 metafile = true
@@ -19322,6 +19327,11 @@ hash = "a7fd74d5d5680775d2d9b83d8a4924c0244169ffb0961dadfb901a362eb1a935"
 metafile = true
 
 [[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "2d003b9e41cd697f2e08094d8c5d22af51de6976f0b431a2b5b35c9965d67451"
+metafile = true
+
+[[files]]
 file = "mods/immersive-lanterns.pw.toml"
 hash = "c609419a2516c2d2b2074d83d69a3d19b7193bbdc608a7610bf134a7da8f245c"
 metafile = true
@@ -19464,6 +19474,16 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "eab9e70981eb356574d9f2ff8e9da4abb7ed7b147b81b63509bf2f882093bdb1"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
+hash = "e8b5edad07fc7a8253c765b018a0b760cdff4179da31c62ae33bfd48b019e97a"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-corn-expansion.pw.toml"
+hash = "2e0905572d91666e35ee1e7552813e186e9ee020163ba47a06ad120b34f973c4"
 metafile = true
 
 [[files]]
@@ -19914,6 +19934,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "e461c1d7534ab618fc1ff30071f4342b1de2bd8037b8ee0238530c7552c32b07"
+metafile = true
+
+[[files]]
+file = "mods/seasonal-lets-do.pw.toml"
+hash = "d24401e1d25ea21b5386b523b27530d1365e0fe7f7d6e9f0e8ff056b1f47caba"
 metafile = true
 
 [[files]]
