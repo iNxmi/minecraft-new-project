@@ -18917,6 +18917,11 @@ hash = "b6c41a9f54d96849fa431c0583f12491f5bea7eb2fab80c60ecfbf07c3d592f8"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "8f594551016c01eca3ef1700837f98a0b73b69f6244b7f27c87a6a88c28310c8"
+metafile = true
+
+[[files]]
 file = "mods/does-it-tick.pw.toml"
 hash = "52d96e5b3b1f2c16308f2a8142e6ef8f9fcb985522ac43df81c76cda67461f00"
 metafile = true
@@ -19459,6 +19464,61 @@ metafile = true
 [[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "eab9e70981eb356574d9f2ff8e9da4abb7ed7b147b81b63509bf2f882093bdb1"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farm-charm-compat.pw.toml"
+hash = "17fcb2ac65687f38836a690c663e81824dda4dfb83158307b54ea5793ae0983f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-beachparty.pw.toml"
+hash = "b34701d3da401439c771485aed4b2d00212fc9e981e8adac0af6270891f5bd65"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-brewery-farm-charm-compat.pw.toml"
+hash = "c2540cdd011c5e1b1235f3caf67b683ad5dbff745882a527a5248dddf91451f5"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-camping.pw.toml"
+hash = "1b4143ff888e913d6861b3de4059958a47549e18c207f83caa02fd209872f52f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farm-charm-compat.pw.toml"
+hash = "77ec1ba3ee352bbd78fec11e6938ae595cc8c66ef56b271d191049bcf10bb989"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "0af5e6d226551aea13a3f7986e1b9092e9e574d696a2fad35dad2875daacc402"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "b469e98e3ece650358e3410c62a70330303584dbe094ab4f1ce415786672cc06"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbal-brews.pw.toml"
+hash = "eb5f5a1cd55bf1ca276911c033b7d84989302e81aae996278546fd13982c61fb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-lilis-lucky-lures.pw.toml"
+hash = "22d4c1010c786a5d6e15f14b9d230de2a6ddf7a07ece822f118d5c9d0bf792ce"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "9be21c61dc9f770591e243de2bed12deb6f9d8c7a64d2b1d6e78e3c3df06b8fd"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "a4f8a56b5bf05d134b6546f75be3082909a209c6878bd88affe99be464c83c89"
 metafile = true
 
 [[files]]
