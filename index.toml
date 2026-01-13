@@ -302,6 +302,11 @@ hash = "32842ad946071b012b84e1d016a9ebc4c68886d16c305fc53ad560d5c61c99be"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+metafile = true
+
+[[files]]
 file = "mods/biome-music.pw.toml"
 hash = "1578832ce1ba375b13d4a2e4da155631f1d9935d4cd14b9920714027622a47f8"
 metafile = true
@@ -387,11 +392,6 @@ hash = "2ffdb2a62d0d79612064acf878aa7075a18030d9b1315099f2b9d6b89029951b"
 metafile = true
 
 [[files]]
-file = "mods/certain-questing-additions.pw.toml"
-hash = "c7814e553c68517b310964b3a52401c413a3d685d0e9577fe3ec2d0803057ac3"
-metafile = true
-
-[[files]]
 file = "mods/cerulean.pw.toml"
 hash = "af5346f487512a892861e0c1d9c120ed35d99f2446c3d0971e71e73488993a5b"
 metafile = true
@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d55acfb69858455fef20b9686a071b455a0b414b327b2d7a0aa49bc94599964b"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -1037,16 +1037,6 @@ hash = "8094986628485e5acc9f526ce4ab8182d122cfaf5a383dcaf16266ed56344e17"
 metafile = true
 
 [[files]]
-file = "mods/ftb-quests-forge.pw.toml"
-hash = "f96f671c8e68742db528b63b376417f6413fb60ed4c7f27e6b2cd2898f02caad"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-freeze-fix.pw.toml"
-hash = "d44c6f4b13429e1d9f1c3961db70c18bcdb3e1f05be8785d252e724edb29fc83"
-metafile = true
-
-[[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "c7f8b62bffd40018636025afcbb2f6f6245f46a69f6424e26a12604eae06265f"
 metafile = true
@@ -1314,11 +1304,6 @@ metafile = true
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "046be11686a9f13ce9ec8f87ff3b75274b93df8dd431b3c0f9748c1011944e69"
-metafile = true
-
-[[files]]
-file = "mods/leaderboards.pw.toml"
-hash = "25c0891e0a21988b16d26b9c0471f79b942b5ef0b07d297a9024a2fe6df77e31"
 metafile = true
 
 [[files]]
@@ -1634,11 +1619,6 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "094861e35fc668fd806ca39560036c20e6741d716856a8d8c1df7edee3788bf2"
-metafile = true
-
-[[files]]
-file = "mods/openblocks-elevator.pw.toml"
-hash = "226a07dbbecc54c26a9a46ed95d6b7c2a4265f38dc991cb847279457744c3196"
 metafile = true
 
 [[files]]
