@@ -18322,6 +18322,11 @@ hash = "0f1c8042a3290de8d54f7f3d967684c48ec7879451c9f2794e45e1845c52615f"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "0f4c2198603cd84a14dc6741729d0b0dcf509574776e620c36c3e7180082db32"
 metafile = true
@@ -18354,6 +18359,11 @@ metafile = true
 [[files]]
 file = "mods/autochefs-delight.pw.toml"
 hash = "ac3598cc258762934286c0f5247d752b0b86cf68a8679a5d43d8292693d78193"
+metafile = true
+
+[[files]]
+file = "mods/automobility.pw.toml"
+hash = "5e3ff30d77ab34aba80c887c01838d408a20e4730726c98feffbf15c568a7b5b"
 metafile = true
 
 [[files]]
@@ -18962,11 +18972,6 @@ hash = "99c72a3010ae97e2e2288779ca1dbf0fe5a0b9af040231ff91ca2dbed20ddbb6"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "bab4c411b37140882295d8c0c190b7c9cae0359aed8490d202cfbc4600d32ba4"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "63080c5acbd9e9597343f2953222900d3bb5a44049131991c45b6e48352dfaa3"
 metafile = true
@@ -19442,11 +19447,6 @@ hash = "b4ccf35e2fa3bbee95666c7d82572da6b42768f3e309aa60bab57c9699c95c24"
 metafile = true
 
 [[files]]
-file = "mods/modpack-update-checker.pw.toml"
-hash = "ffac30838ac930398db19d2522f595bfaba9a7b39ca0774aa51ef6beec038cd1"
-metafile = true
-
-[[files]]
 file = "mods/moogs-end-structures.pw.toml"
 hash = "03404baa09a352c78d509296d8f3a69ede37497953a1f005b9ee692d19e1c424"
 metafile = true
@@ -19758,7 +19758,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "8330b8baa4afd30df56a60ef567f4600c6b23405ec9b768daf1ba0f6ae174921"
+hash = "96faed6998f9d3d7240f35111b9793370b83e6c4f984545fa228f799398595eb"
 metafile = true
 
 [[files]]
@@ -20079,11 +20079,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "8eb55f1392b538248bf0ae0dfa68225ac4667cce8de1b74fa44c2e24b106cfbf"
-metafile = true
-
-[[files]]
-file = "mods/yungs-menu-tweaks.pw.toml"
-hash = "e492061769757105873312ed66d761f6b83603981e98bcb4634b91a2fa64535a"
 metafile = true
 
 [[files]]
