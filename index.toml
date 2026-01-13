@@ -361,8 +361,8 @@ hash = "6c9e089a8d0c855f9df338487ec8315bea41b3fe841ebb38bc5c6fc121f59317"
 metafile = true
 
 [[files]]
-file = "mods/better-world-loading-forge.pw.toml"
-hash = "7890f3724125407dbe29adbca2aba586062a02c0b5b22e169e44900abd824b6c"
+file = "mods/better-world-loading.pw.toml"
+hash = "32842ad946071b012b84e1d016a9ebc4c68886d16c305fc53ad560d5c61c99be"
 metafile = true
 
 [[files]]
@@ -387,12 +387,12 @@ metafile = true
 
 [[files]]
 file = "mods/blended-compat.pw.toml"
-hash = "36e154dd97d16b9da71c486e11a9b20702900fc099dab3e3d48822c657a7cc36"
+hash = "b06960445108306ece8c5135e84eb00dd50a5d008445aad52648b7dd3a6f1448"
 metafile = true
 
 [[files]]
 file = "mods/blossom-blade.pw.toml"
-hash = "302e46184c23e8437b511a41e63ea46fdb299700cac2d5262d76cbe19b1dbe79"
+hash = "3d5c7a4eff33a51d6a52ed8d86b98877dcddc8ba348677df91ec80530f3f9af6"
 metafile = true
 
 [[files]]
@@ -408,11 +408,6 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "d91e210be8d495f6a8e53e0fd314252172f1108b40610767f8fa63a99f0b9179"
-metafile = true
-
-[[files]]
-file = "mods/bmc-patcher.pw.toml"
-hash = "6f64b3db60bd70bfb1415ad55eec614b8e068b2470687ec9bc12f3ba86e334ce"
 metafile = true
 
 [[files]]
@@ -687,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "24289f92c42db37fd3d1aac85517a70b6b951bbb145880d90b67db3829cbea20"
+hash = "f88c9ba87efaab7b9b88898095eefaa81d046fe0c613649a1f1484180afbd329"
 metafile = true
 
 [[files]]
@@ -957,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ad5d5b7682c7f3d557a6e938f644e06a8c5ac300e14b1b004b278c9e11aced01"
+hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
 metafile = true
 
 [[files]]
@@ -1038,11 +1033,6 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "da183ff4e96350cc2988e6096bb1bbd1e6809706710fd445b367d75f6f68afe5"
-metafile = true
-
-[[files]]
-file = "mods/faster-random.pw.toml"
-hash = "5381e07d3dd3b1c9995265feae480a18c9840e494960e088a8fa68fcc48e7b50"
 metafile = true
 
 [[files]]
@@ -1557,7 +1547,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "aae7fabaaa007020ca3ad27ad53513428fde45c80728f098d2f31a3ebf8ba738"
+hash = "ff3e8c24b856793dea18726883722d8274d7b292448ecc4beecec9df008d44cd"
 metafile = true
 
 [[files]]
