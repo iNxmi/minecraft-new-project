@@ -1,13 +1,13 @@
-name = "Mandala's GUI - Dark mode - Utopia extension [on break]"
+name = "Mandala's GUI - Dark mode - Utopia extension"
 filename = "Mandala Utopia.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5f48ad5b4eb0decf2884645ade34f27c8da842e4"
+hash = "4f492039ef64b4736b323cd272667a17467a0e1f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6646920
+file-id = 7441852
 project-id = 1193697

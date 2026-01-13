@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "alexs-mobs-compat.pw.toml"
-hash = "cd0089b05c2150317e66cee5a35651a41259aff393bdb0bb7eef75a4d3c1484f"
-metafile = true
-
-[[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "65dbb5413ed3476534031ee6fdbf6a2e9dd30fd7bf51c920d4ef1d3242f62b54"
-metafile = true
-
-[[files]]
 file = "config/item_obliterator.json5"
 hash = "246809f67d66ec62d3cff6d28cb885d26b2cd2cc16cceb64a4da4dc763c4da2d"
 
@@ -125,11 +115,6 @@ hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
-
-[[files]]
-file = "mes-biomes-o-plenty-compat-pack.pw.toml"
-hash = "fa34879eb38e29e85ef290aafb294ad55255c2a27d0549449ddfad2aaad339ce"
-metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -248,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/backpacked.pw.toml"
-hash = "86e3b63af99a402fbd3d50cc5bd93a96b3ed91bdaa3ec838fc348704321da436"
+hash = "231924ea496fbdbf6f0b11af96a72ee1fb8cc5bd96d7d7e22eccd286d027bac0"
 metafile = true
 
 [[files]]
@@ -458,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "2685430a44d3b50b1c1235da604b6674a290a109f39094aef9a925b0e1b15ae8"
+hash = "31e9a3a61024711355ad4b942cc3f29438759825526838c6c23ca180dfef95bc"
 metafile = true
 
 [[files]]
@@ -623,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "fc77e6c318e39dbf41c7ffc6d08fb913b1937603331648a6ac262eb613d1a51c"
+hash = "af254a9e26ed280c6078e2d02aa9f511d5b3f0ae43767e6a35a87583014e5e6e"
 metafile = true
 
 [[files]]
@@ -868,12 +853,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8b5f5b6a17242c5f61c8b7996231b543f8f30e103f47f0a8bc8fe727963ca6d1"
+hash = "e913f7ebc0ccbefcca67d4db8a93c7257f21cfad0de8be1c8a57e030dad21d80"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "8d53eeb22d21c1776c632ec9aee7479c3a70b5781fc38ea8edee8f081462655e"
+hash = "163a669685e417fc90796323b46128e5e54162703c2f6c114a52af3da5b5a95d"
 metafile = true
 
 [[files]]
@@ -1078,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "63ce4553ac55683b84cfd279ea65e85f44484280f03169910cf5ed23f6d60891"
+hash = "093711628f921153cd954c278f237665b2c7cb3e91f304b8c0483c5ba8be5347"
 metafile = true
 
 [[files]]
@@ -1288,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "bb7c4601f33657bc395b6c9f887b3b718bbcb455a263a7dc598eff9a32893670"
+hash = "e2078e4a38e8593a16df041165985292fc5b1b85aa80bcbd80885c5d0f388dce"
 metafile = true
 
 [[files]]
@@ -1488,7 +1473,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b4ccf35e2fa3bbee95666c7d82572da6b42768f3e309aa60bab57c9699c95c24"
+hash = "11cd7da81a933aab04f091e2c25447b6d11ebe98bfeed244426a86dd31f3df04"
 metafile = true
 
 [[files]]
@@ -1683,7 +1668,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "406989239305e76b27a0c46dead544297cbbf2e0990f7a98ede6f706df9b94a9"
+hash = "bd56624f00cda9e544281d2c247e5479f6f1c315f8d8088cfee86e8b61f69dac"
 metafile = true
 
 [[files]]
@@ -2043,7 +2028,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "9fe87b9596b9030c4dfb6aac58cb8ddfb18a75816816670ad32cf1cb92422426"
+hash = "7e730b980a0d8aea7a573b53885e7b3939912868da20b780673fbbaed4d1f488"
 metafile = true
 
 [[files]]
@@ -2197,11 +2182,6 @@ hash = "33b3083dc76d44b58f77ef9f40e99b486c365cd08dc3e77430aca5b7f950b9f9"
 metafile = true
 
 [[files]]
-file = "repurposed-structures-illager-invasion-compat.pw.toml"
-hash = "a4ffad4356947305c24ebd49d32a251fa5d9b8e8519ec326241b4056b1aef0ff"
-metafile = true
-
-[[files]]
 file = "resourcepacks/Better_Modded_GUI.zip"
 hash = "e161a18333fb2bf8acb897cf689f7f1419d9dba1fe341a98316395953df3ffb4"
 
@@ -2248,7 +2228,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-end-city-for-better-end.pw.toml"
-hash = "904e07df574cf2b311fb49a23658b6210d252665141a2f77e5f0638ca4bd79a9"
+hash = "57caa36dc1377620c2e38b9c6f2be1bc4f5fdf91ff396c6667cb3aa120a2f787"
 metafile = true
 
 [[files]]
@@ -2278,7 +2258,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mandala-gui-dark-mode-utopia-extension.pw.toml"
-hash = "25a4c51b380d06653f0c3c53381e97c7575d5c8fca89e1a691c34b0df056d6aa"
+hash = "f581342035e3b35d4af7dfd00b7704941810e43755a61f9aa6ae86964d5dfe7b"
 metafile = true
 
 [[files]]
@@ -2378,10 +2358,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/when-dungeons-arise-spacing-tweaks.pw.toml"
-hash = "123b85e54dd9ada6ca1cf894c5154eb10bc9bf85c41d625133f8ed59a348fd4d"
-metafile = true
-
-[[files]]
-file = "supplementaries-compat.pw.toml"
-hash = "97b532ac98ffc0f9d20b8ef224287bc010c7566db1176a5ddd0c175da965ffb2"
+hash = "743763741aaea892ff4d9e5d373b18d9ecf55c71c7b1f428a2603ba063a944e3"
 metafile = true
