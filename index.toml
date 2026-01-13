@@ -18292,6 +18292,11 @@ hash = "27579ec16e5bd357578524cf357eacc330076fd48804858ba35c66093014095b"
 metafile = true
 
 [[files]]
+file = "mods/alekiships.pw.toml"
+hash = "1a15600bfc496f94f93da7062f19ce4a403478936600953c32e38235818a9027"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mediumcore.pw.toml"
 hash = "3a03f5f86f111c81acccc445a710f31a72e54170fe3225aa244f3aef6b7379d6"
 metafile = true
@@ -19802,6 +19807,11 @@ hash = "96faed6998f9d3d7240f35111b9793370b83e6c4f984545fa228f799398595eb"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "a2641c9187ec8485df45b2fb25c901f835da50ffe4d9601e4ecc81fc9036eb55"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "ac5d6ddde49d3f1e6834b3dc1ed108ad1b99db619a507699961dd6b1e75fdb36"
 metafile = true
@@ -19844,6 +19854,11 @@ metafile = true
 [[files]]
 file = "mods/sparse-structures.pw.toml"
 hash = "22ba534c58ed40938da0f343b4d85df4024c0cb4207e21490d0f7c94bbfb92a4"
+metafile = true
+
+[[files]]
+file = "mods/spawn-mod.pw.toml"
+hash = "985be1c6f04abed3097d5d2885539d6c42b652a152851c2af2546d53f2d033b7"
 metafile = true
 
 [[files]]
