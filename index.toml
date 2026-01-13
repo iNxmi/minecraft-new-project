@@ -2277,11 +2277,6 @@ hash = "8684614a2ccb6e0c8bd7a9c18eca2585fe0f18c1fe9fc26329a3e7eed4c7b2f0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/icon-xaeros.pw.toml"
-hash = "56c6aecfe1a05d568d56ad398d34a31daeaf2671b76e8855e07eb0473f05b0b7"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mandala-gui-dark-mode-utopia-extension.pw.toml"
 hash = "25a4c51b380d06653f0c3c53381e97c7575d5c8fca89e1a691c34b0df056d6aa"
 metafile = true

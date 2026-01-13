@@ -4,11 +4,9 @@
 /.packwiz-cache/
 
 # ---- Runtime / Client Stuff ----
-options.txt
 logs/
 crash-reports/
 screenshots/
-shaderpacks/
 
 # ---- World / Server ----
 world/
