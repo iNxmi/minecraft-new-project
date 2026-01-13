@@ -18342,6 +18342,11 @@ hash = "3011e54cc0370c6eccab1b78e6520266015f8de4a1fd762fd7df2a6c62e1b0e0"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
+metafile = true
+
+[[files]]
 file = "mods/ascended-quark.pw.toml"
 hash = "f4a916e4e13d44ca71496156c6ffda72bdf532c3a1df5726d4356cab1da7c381"
 metafile = true
@@ -18757,6 +18762,11 @@ hash = "53d4c60fdfa2bccaca8498bf04f29f65fcc39720a0f2dbf8b46d3d0fd46d3741"
 metafile = true
 
 [[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "38c5884bc4aa18c9ba01662367e7d81a4149a6eb04179b99ac6ced94639ea109"
+metafile = true
+
+[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "ca274f1a31ba6fdf3ce7fc4a14e5d6ffcaa19c711595d98d87deb1d9fe365727"
 metafile = true
@@ -18914,6 +18924,11 @@ metafile = true
 [[files]]
 file = "mods/dolphin-fix.pw.toml"
 hash = "1f3c3c26551276cb2f30b3dad7d8a92aef1f6d2ac91d62f4065ddce4621f2967"
+metafile = true
+
+[[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "2aa8e99103e73af719667f2c03ab4380b1febed92cce4724aff8a5ec0e3cafea"
 metafile = true
 
 [[files]]
@@ -19297,8 +19312,18 @@ hash = "3c299aad2357e869a65109668c66ae63d4af84675ae00e7e979eeeeb5c1880fa"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "a7fd74d5d5680775d2d9b83d8a4924c0244169ffb0961dadfb901a362eb1a935"
+metafile = true
+
+[[files]]
 file = "mods/immersive-lanterns.pw.toml"
 hash = "c609419a2516c2d2b2074d83d69a3d19b7193bbdc608a7610bf134a7da8f245c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-machinery.pw.toml"
+hash = "abf30f9ed0ce36e9df7b1e9d57a29a31d1302168c50bdfa1e2f47cf05ff60c95"
 metafile = true
 
 [[files]]
@@ -19559,6 +19584,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "8e2126ece17182ba7aeb52da1bafe4a95b656003993df27164958c13c6b47470"
+metafile = true
+
+[[files]]
+file = "mods/more-delight-forge.pw.toml"
+hash = "8d8aeaa4488cfd9bd37992e51e78c0bb23f1871c65c63d413e8e36788abee6f5"
 metafile = true
 
 [[files]]
