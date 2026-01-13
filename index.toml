@@ -18832,6 +18832,11 @@ hash = "d26a0147346e1a147b1af74fd44ed4cbea8dedeff1d1e48f53156b49af149c3f"
 metafile = true
 
 [[files]]
+file = "mods/dawn-of-time.pw.toml"
+hash = "21b6767821d1b62fce3e071fde189f3d3f5e633eedbfef3f12cd3cd262d13d84"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "e2a8d7840d6c76e574e7da63a4603c83ac5dea4496c18613cea97442ff9a8001"
 metafile = true
@@ -19022,6 +19027,11 @@ hash = "9c4f0ded2b898fdf64c052d96a7d82f4458b48892a361632e833a4c1f4a7f04e"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement-reforged.pw.toml"
+hash = "197ae024f6d018efc44da09a5324c2cec24219e3213b3fd2a34b9b6f2f0f7f01"
+metafile = true
+
+[[files]]
 file = "mods/extra-bounties.pw.toml"
 hash = "65986bbb6149219e9c1d9fade9b35a367d4905a93b8986bfcc3af61463ff367d"
 metafile = true
@@ -19177,6 +19187,11 @@ hash = "81999cec5055a718ac93787b10a635c0804112794b39b369822642fb4c7845d2"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "21891ddc7831e9533b9b2fb99a1d113116ea511d5c0a8463afb6b701b2190e7a"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "05d868d331648d18da2ba95fbd3abcbbe3dd24a257d3a6ef596a10489ae665e7"
 metafile = true
@@ -19289,6 +19304,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-messages-api.pw.toml"
 hash = "735379f5c83ddc5bc3d14de527d5cbd5463361dca6749ac8f7a5d5a10fe2dbbf"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "b3d5281de05b55aed0aa0def6e75b79947efbaefbab56bdaebfa2e2948f7cb6c"
 metafile = true
 
 [[files]]
@@ -19474,6 +19494,11 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
+metafile = true
+
+[[files]]
+file = "mods/meds-and-herbs.pw.toml"
+hash = "35b916581694737f73e744f4d40a8fbc26dd2c316d6c0400ada33de9f29ce3b9"
 metafile = true
 
 [[files]]
