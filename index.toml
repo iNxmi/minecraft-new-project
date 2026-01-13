@@ -18347,6 +18347,11 @@ hash = "f9b0058eab033e31346f2750953b20a0c66a8003b836bd834bb5e9c760f16ea1"
 metafile = true
 
 [[files]]
+file = "mods/astikor-carts-redux.pw.toml"
+hash = "6d7488c03c6ce1b0f06e030bb90094d3b029ccfb01c20de674488710f8ad2891"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "577f73640d26fcf3f513b8303cc7ba5eae03c90d6aedff7602d050d9fee71185"
 metafile = true
@@ -18892,6 +18897,11 @@ hash = "e498e2f0b0223fdc40ba24343286a1bdf849cc8501122469ff65a77da1f5eca9"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-village.pw.toml"
+hash = "220eab9b6237a88037f5192c8f63670ed1fd0a54ca990ab8dc99099ef14b8ba0"
+metafile = true
+
+[[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "03c3656fc7ef81fa80b147e61a89e9027e7343a4ab82ea4c751b0d8b9209d536"
 metafile = true
@@ -18974,6 +18984,11 @@ metafile = true
 [[files]]
 file = "mods/explorations.pw.toml"
 hash = "9c4f0ded2b898fdf64c052d96a7d82f4458b48892a361632e833a4c1f4a7f04e"
+metafile = true
+
+[[files]]
+file = "mods/extra-bounties.pw.toml"
+hash = "65986bbb6149219e9c1d9fade9b35a367d4905a93b8986bfcc3af61463ff367d"
 metafile = true
 
 [[files]]
