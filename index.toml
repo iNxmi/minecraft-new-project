@@ -326,11 +326,6 @@ hash = "fdf3309aa7a66c76200fed896292d55effb6f0cc259e10dd48da08f6b5d613d8"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "0c0c79a36142cca5fcd53cd9a76b9076cbd8746ef368ecc0a3e1f61643639490"
-metafile = true
-
-[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "585a3071c68587c3c041832210a58e74e7701162dbc360d47956655ca1a6438e"
 metafile = true
@@ -351,11 +346,6 @@ hash = "d07b73dc6b641321122c2f4392ad86f62322f445e26a8a868109168de33316fa"
 metafile = true
 
 [[files]]
-file = "mods/better-end-crashed-ships-tweaks.pw.toml"
-hash = "db3ba48a76068c9fd280f496124337103a7b5af0100a2f9da876c296887f7cfb"
-metafile = true
-
-[[files]]
 file = "mods/better-mods-button.pw.toml"
 hash = "6c9e089a8d0c855f9df338487ec8315bea41b3fe841ebb38bc5c6fc121f59317"
 metafile = true
@@ -363,16 +353,6 @@ metafile = true
 [[files]]
 file = "mods/better-world-loading.pw.toml"
 hash = "32842ad946071b012b84e1d016a9ebc4c68886d16c305fc53ad560d5c61c99be"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "d6b58e54d5ce8eb8e254144edd1936211c298dbb04fd1583ec15c2ab3b6febb8"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "3f06460977acaade8251ad37df344c83c64a34b5310a36052e17f2c3adddd0c7"
 metafile = true
 
 [[files]]
@@ -586,8 +566,13 @@ hash = "26d4507c3f0a6df9f16186dcebe605d29dc93aae308aadaed3006d00a8542ab8"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
-hash = "e3f95e84dbd88cab4fbe22603937475458ee43628a229012e6d465b407e347f1"
+hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
 metafile = true
 
 [[files]]
@@ -1077,7 +1062,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "f8a16f5eb53339f8c9ab4d2ef4bab2076da1d099b3b4b066c7dddf2973a9f5b3"
+hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
@@ -1526,11 +1511,6 @@ hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
 metafile = true
 
 [[files]]
-file = "mods/mcqoy.pw.toml"
-hash = "4060d5afd849f988fab9dd602998144180149f547f6f5052ab7f12538f84d49c"
-metafile = true
-
-[[files]]
 file = "mods/meds-and-herbs.pw.toml"
 hash = "ef1df06f892ff2e75b530b350b539a0444bd8563a1cb77b27e65b8ed1429ab9c"
 metafile = true
@@ -1593,6 +1573,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "8e2126ece17182ba7aeb52da1bafe4a95b656003993df27164958c13c6b47470"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "65a91af2199b20368a52cd49ccd3c0a874cd5ed8acd1892745bf778705c4f07e"
 metafile = true
 
 [[files]]
@@ -1693,16 +1678,6 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "d070bdc77653aff6dfd6d052aed47255d0e4245b12113f980c167087901393a2"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "204d6d88b0ea0977b1b878ebf7d52c236aec5c603f115f80af3710283d058f97"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "d948acee031db5a8190fe05f2f2434584e6a4323c4ced6be03d2de091a05f9ba"
 metafile = true
 
 [[files]]
@@ -1893,11 +1868,6 @@ metafile = true
 [[files]]
 file = "mods/seasonal-lets-do.pw.toml"
 hash = "2a583a51b7dbe594e974bf5c987ff5410d3bc7b5bdaa7c3af71562a0027cb35d"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "0239db5b2791d4ba025e320caf6455261d023684b8ac98d452b3555038618057"
 metafile = true
 
 [[files]]
@@ -2213,11 +2183,6 @@ metafile = true
 [[files]]
 file = "mods/world-preview.pw.toml"
 hash = "8f91eecbed927189c1e64d5bcbf6bd3a6c0c728c15c5fb193f87da13a68f790a"
-metafile = true
-
-[[files]]
-file = "mods/xaeroplus.pw.toml"
-hash = "221a8400157385159b0e3f95700f51a8540f25323e4a624522feab537fd87e4f"
 metafile = true
 
 [[files]]
