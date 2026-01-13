@@ -1,13 +1,13 @@
 name = "Mandala's GUI Vanilla Crosshair"
 filename = "Mandala's GUI Vanilla Crosshair.zip"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "bac5951a6a70b867857f7de09af8a19ba1b9a69d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/4zlIFp4J/versions/bS5PrRhs/Mandala%27s%20GUI%20Vanilla%20Crosshair.zip"
+hash-format = "sha512"
+hash = "2b91c14a29a270cbe09da99009b9a1ad8448f19ad56057f8f71672596ba5700c701db3a1e64897b6540411a416059574308f9341acf78c7da7d6e6f602c26070"
 
 [update]
-[update.curseforge]
-file-id = 5592984
-project-id = 1076873
+[update.modrinth]
+mod-id = "4zlIFp4J"
+version = "bS5PrRhs"
