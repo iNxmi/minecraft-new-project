@@ -1163,6 +1163,11 @@ hash = "e6686ea6d8b0428e14dcd184c04a3590c18f6522400988741d4911bf56ecb5bb"
 metafile = true
 
 [[files]]
+file = "mods/great-scrollable-tooltips.pw.toml"
+hash = "c11187e6e156f0be52ab5735f58041bd55af11eddc495d8039d0c38287fd2e72"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "da47472a23aae6a7f7d01cbfa2be48949a6bec9f24b336d83ffeee5b18350608"
 metafile = true
@@ -1388,6 +1393,11 @@ hash = "e72b263451bc4f5549f78772b5862b4489cab91ba9560b4eee08e48034a92aa2"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
+metafile = true
+
+[[files]]
 file = "mods/lendercataclysm.pw.toml"
 hash = "eab9e70981eb356574d9f2ff8e9da4abb7ed7b147b81b63509bf2f882093bdb1"
 metafile = true
@@ -1523,6 +1533,11 @@ hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "e54c6dc1b57c90006e8240f45998953f28ae53769c4c2682b7f341f75f1a0b52"
+metafile = true
+
+[[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "3a9126037aa4c6f9f2ca01af14bcb1403cbc11dcbef7637a974b5cf4257b3393"
 metafile = true
@@ -1625,6 +1640,11 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "6f6dbcb059d5bc284cffef5df47960ee0ece67e2ca54c4f398948421fb79660e"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "f5e19eff418ff12946e7cd4f10e16508ba7261c9cd9685e3d87016fa21c127d1"
 metafile = true
 
 [[files]]
@@ -1733,6 +1753,11 @@ hash = "5d4bbcd654e3dec83adfbed0c39a29614fbf8aee254b684e93585e787348f604"
 metafile = true
 
 [[files]]
+file = "mods/packing-tape.pw.toml"
+hash = "5df62d59a898f35792c6a611ad86cc51f1b74d74e7c323b97daf3435a15d9188"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "61a5a25cb28b5e7755d6adf58c0434679ad7e395a0770d85fb9499ea55b99acc"
 metafile = true
@@ -1800,6 +1825,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6b5af5436645a6d990324f845314edbcdc9977131f7ea2b79694ef97f011cc51"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
 metafile = true
 
 [[files]]
@@ -2023,8 +2053,28 @@ hash = "b2df4875ea3dda12815946d855c239d2df20cca16aa4fa419c403cef1cfae554"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "d65422fbf9a4a3d9449cb79905593d442ff0213e1de77e875b5023010b6426bb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "1d845e91fef3625d8f5b309913317e68bd1c03ff2c779158d19ea0edc90a46b2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "58499d6d984b3b3ffa5e642e4c9dea964ea2a37636b14dd0de491b1ed9bb0b20"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "2a01c44a42ea70044149fdb717a3aefd1962d50beac5b69bf4343b2b1f56a176"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "4a603693baa20af56faea5e84e47d780b3ac961ead3ab8529e2dd54b42aefea4"
 metafile = true
 
 [[files]]
@@ -2270,6 +2320,11 @@ metafile = true
 [[files]]
 file = "mods/weaponmaster.pw.toml"
 hash = "414fb16c0e035c59052cf297f2de8f95090043c177687f42286430835f0b4dae"
+metafile = true
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "7f0719437fa714e17236c76f62ee2b08ad23782d06c52253c32a21bb6890d628"
 metafile = true
 
 [[files]]
