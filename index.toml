@@ -117,6 +117,10 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "4df494aed1e605f6ed5bc3c1a21905410cec7d85b7cc8dc7820f76f32942dc1c"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "18b585d0f14984c5548eb9df3d56a5758482615c65db8260ef6038a3c8ee7acc"
 metafile = true
@@ -1743,7 +1747,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "4e646c026eee5b96229e1f22340e5c7f5aa3e7a9a1f0ac169014a6abf65e4387"
+hash = "fcb95ac9e305c0ac7d78f4fb66901da4fd73cd1f80f48ebeb08d0aea466da3ef"
 metafile = true
 
 [[files]]
@@ -2202,11 +2206,6 @@ file = "resourcepacks/SE Vanilla Consistency 1.20.1.zip"
 hash = "767ad33f82139a8be0c246262d8a70074cddc2e09f74fb39e9c9dd3d509eb46f"
 
 [[files]]
-file = "resourcepacks/aether-regenerated.pw.toml"
-hash = "34097985a37c0f340c75028b71968c46ad10d15cae29824f47378a89422511cf"
-metafile = true
-
-[[files]]
 file = "resourcepacks/armor-trim-compats.pw.toml"
 hash = "69616389194d4896845163f1a15a6a733f3664ea75b5c08854abd15a34e46780"
 metafile = true
@@ -2219,11 +2218,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/beautiful-enchanted-books.pw.toml"
 hash = "2d20ec96afa3cf3d450ec81a809f731ffac64e963472b03708bff487fb590b90"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-betterx.pw.toml"
-hash = "388857762e750cf59884f44e2ca680001c8d4e6c069b4c8ea201041f86581de0"
 metafile = true
 
 [[files]]
