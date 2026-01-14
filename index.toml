@@ -155,6 +155,11 @@ hash = "563897345d05630e51559eb65e3f0b1d568a09f4087fef05c4542a2e61a589bc"
 metafile = true
 
 [[files]]
+file = "mods/animated-doors.pw.toml"
+hash = "47f4e44c537bf0b6983ef8d40d67a455f6aea8ac53ffb90218cc1a5d6d64f255"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "0f1c8042a3290de8d54f7f3d967684c48ec7879451c9f2794e45e1845c52615f"
 metafile = true
@@ -280,6 +285,11 @@ hash = "6c9e089a8d0c855f9df338487ec8315bea41b3fe841ebb38bc5c6fc121f59317"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "598205e268c0f43a288b21fcccacf3eded9662270a0411bb0d025bfcb2ed043d"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
@@ -342,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/bygone-nether.pw.toml"
 hash = "2b94bfdb0b9b30e2622343b83252dd099bee61c366af073eb29a094aa171692c"
+metafile = true
+
+[[files]]
+file = "mods/caelum.pw.toml"
+hash = "33735d57abe99591ac312f8a307e539bbc45ede5df0292f992c7e62d7ca23541"
 metafile = true
 
 [[files]]
@@ -456,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -695,6 +710,11 @@ hash = "08a2db404abdeeddd99346716bdf566705112db412566f2bde7c5780e62f5c2e"
 metafile = true
 
 [[files]]
+file = "mods/custom-crosshair-mod.pw.toml"
+hash = "6332e4ed8e5e4788bb1f4040415e0bed62353ddd20eba1e41082ca504f2ee5de"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "4b7dea81fa5ec2c96546128cb340d29f49ea7b430017aa9660b49adbeb3c0ab2"
 metafile = true
@@ -762,6 +782,11 @@ metafile = true
 [[files]]
 file = "mods/dimensional-sync-fixes.pw.toml"
 hash = "fbfefbe6b079abcc66482358db5bd98aae776338390fe71fc528191675a5dc1b"
+metafile = true
+
+[[files]]
+file = "mods/displaycase.pw.toml"
+hash = "dc32f38cc1346535bb8709e9935007e8a09b56385c6cb8d1cba2fbffa7810a39"
 metafile = true
 
 [[files]]
@@ -1065,6 +1090,11 @@ hash = "952e8743d8452d98c491a2e71bffbba3e89fb26369211c15c84fad89b6e17fea"
 metafile = true
 
 [[files]]
+file = "mods/gabous-libs.pw.toml"
+hash = "ba740332f17d196789058218a8eaad6942b3150aa4e7b547e5dabd30e7f78fb4"
+metafile = true
+
+[[files]]
 file = "mods/gallery.pw.toml"
 hash = "c1cddeed8385a84500191f8844caaa9b23e5763a3970671a1bd48d9f0c8d0cb4"
 metafile = true
@@ -1217,6 +1247,11 @@ metafile = true
 [[files]]
 file = "mods/incubation.pw.toml"
 hash = "c719b8544ba27e3a76aaeb20e198895a5ddca787ac21e36c9a477ace389395bd"
+metafile = true
+
+[[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "122e363a284d858065df3e1621994e4fc980d508ac5a89bf7193ac76767cd58b"
 metafile = true
 
 [[files]]
@@ -1457,6 +1492,11 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
+metafile = true
+
+[[files]]
+file = "mods/mcr_blahaj.pw.toml"
+hash = "3a9126037aa4c6f9f2ca01af14bcb1403cbc11dcbef7637a974b5cf4257b3393"
 metafile = true
 
 [[files]]
@@ -1745,6 +1785,11 @@ hash = "4dd7038889da90e145f9d074bec64a61aaae12dc57c875aa7ad99b8b2e07979b"
 metafile = true
 
 [[files]]
+file = "mods/quality-sounds.pw.toml"
+hash = "0359d038386e330188c12d768faf1cadf6e6c1577d431b2eba20b0624ab6b662"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "17053181ea48bd07eb05ad7df2c160e2c17354a47e401de92312fb4b9f96d506"
 metafile = true
@@ -1777,6 +1822,11 @@ metafile = true
 [[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "c2bafb3a42f120fbb4cc5b70606143286476beb02b6e5b9fd5db97a36d7239c2"
+metafile = true
+
+[[files]]
+file = "mods/redeco.pw.toml"
+hash = "e095beb99de9b9884eff447302eb69931d6fe7c917ae347401a2810783cdaa6f"
 metafile = true
 
 [[files]]
@@ -1855,8 +1905,13 @@ hash = "2a583a51b7dbe594e974bf5c987ff5410d3bc7b5bdaa7c3af71562a0027cb35d"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons-plus.pw.toml"
+hash = "e1d2ca51da631074cada3720291402b969f173b1a7e1b66efeb3db9b03cec321"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "b8a7b77d46704d54be62bc36a6f0f7c59f6c812ecdd5d4f70f366927b3a8c2dc"
+hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
 metafile = true
 
 [[files]]
@@ -2047,6 +2102,11 @@ metafile = true
 [[files]]
 file = "mods/swashbucklers.pw.toml"
 hash = "bf90b05a316eff7164ff4de34d48051c0674d69507101ce2183950fd1ce345a6"
+metafile = true
+
+[[files]]
+file = "mods/table-top-craft.pw.toml"
+hash = "d8a0355cf4da9ce96dadbec3fa67a0ffa81132c72c3184f03b6bd30cb2669e08"
 metafile = true
 
 [[files]]
@@ -2303,6 +2363,11 @@ hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 [[files]]
 file = "resourcepacks/SE Vanilla Consistency 1.20.1.zip"
 hash = "767ad33f82139a8be0c246262d8a70074cddc2e09f74fb39e9c9dd3d509eb46f"
+
+[[files]]
+file = "resourcepacks/animated-door.pw.toml"
+hash = "031a54437d0ac582056ff190637d37530b33f0e7e3f0478b4391b2df8d7b0fb2"
+metafile = true
 
 [[files]]
 file = "resourcepacks/armor-trim-compats.pw.toml"
