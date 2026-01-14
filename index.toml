@@ -25,6 +25,10 @@ file = "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
 hash = "e7444cde0a4df808545b1b89daab457516ff6d879ee969a98957c00c5f1923a3"
 
 [[files]]
+file = "config/paxi/datapacks/NoMoreFloatingIslands-1.20.1-1.0.0.zip"
+hash = "59bcb031c1ca0b4c2403983f0bf62b7d846a1b8b1d426ec548135a1963441cff"
+
+[[files]]
 file = "config/paxi/datapacks/Quark x FD Bark Cutting Compat.zip"
 hash = "427b8043a2f75efc9fc4306ded555e8bef2a8c62fea80247adf14f510efe71d4"
 
@@ -103,6 +107,10 @@ hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "4df494aed1e605f6ed5bc3c1a21905410cec7d85b7cc8dc7820f76f32942dc1c"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "bd00d8134e13054e066075099c10f6124b87fab0309f57c8957ed9c1726d7b9c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -257,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "a0a004aae8c30fc8611d8507f6501787f11d4eff95b9544a4d99ee7be58c9623"
+metafile = true
+
+[[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "2f1f1c29d99ea10b67348fc529474f128d5b51d0591f124e3363d760e400f53a"
 metafile = true
 
 [[files]]
@@ -675,6 +688,11 @@ hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "66a98c199b79d0172e297f45b89f4a97f51b78e5f7dea16620d4e42f7ad0381d"
 metafile = true
@@ -1015,6 +1033,11 @@ hash = "deda847dc1d4b138a6f6c3b0abf9125eefa02baf2a3b2e9835f9d75ffb0ca96d"
 metafile = true
 
 [[files]]
+file = "mods/flowing-fluids.pw.toml"
+hash = "2771972cdbaf694ab3ede6eb36eab00176039a175c397fb3e959d94325465cc9"
+metafile = true
+
+[[files]]
 file = "mods/foodvariations.pw.toml"
 hash = "da5aa544693d84d457f1402117b384f3f6b07a51cb4c602b0a10633b5d7c5c2d"
 metafile = true
@@ -1176,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "5e3ae0513b222eb6b958d91bed61f7a46dffac5273d42f7eb557d53d93833026"
+hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
 
 [[files]]
@@ -1276,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "d2ea4c30ad1e8be5a30da37ecc518e0f832074862797586ec7361b8a59400229"
+hash = "1fd7d2d0d436f2b8e61475da148bdb0dac06bdddeb6d188629785e2a2a89320d"
 metafile = true
 
 [[files]]
@@ -1287,6 +1310,11 @@ metafile = true
 [[files]]
 file = "mods/item-split-bug-fix.pw.toml"
 hash = "f10524afebffcb17074516757c07bb8e1fdd4fecfb43b87b082423fc63bbb36e"
+metafile = true
+
+[[files]]
+file = "mods/itemphysic.pw.toml"
+hash = "0aff8d745dcdbc1a327e2647c184a464c28cd35b001865f561f2228eac1df683"
 metafile = true
 
 [[files]]
@@ -2071,7 +2099,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "e0d6a96204863fe32d6468234e5e7e16fe4c5606f40f7425a3e5630fe047eab0"
+hash = "c65f972be49ab11e858d39b76c0df939f1e5a76ddfca220971f183d2ee621869"
 metafile = true
 
 [[files]]
@@ -2257,6 +2285,11 @@ metafile = true
 [[files]]
 file = "mods/wither-spawn-fix.pw.toml"
 hash = "a059f246f3211d8c8579733b0fbc1e0e3ded4e2dfe168c795c1726dee61a7331"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
 metafile = true
 
 [[files]]
