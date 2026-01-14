@@ -924,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "163a669685e417fc90796323b46128e5e54162703c2f6c114a52af3da5b5a95d"
+hash = "5d8428d9f09b5067e43093d63223bda776ad228176150a1585c1e94d26f1915d"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "a37f2206e7558dc2301b58a19b70de31070d3f8a08de1afb8ede568abeebcf11"
+hash = "0cd61c41df017a5126b48d8d5da5654ca10669a298c3d945d16dd581e043c80b"
 metafile = true
 
 [[files]]
@@ -1539,7 +1539,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef.pw.toml"
-hash = "e54c6dc1b57c90006e8240f45998953f28ae53769c4c2682b7f341f75f1a0b52"
+hash = "e04d43978f430d2cf073f07f1a1bfb681af0ee203c60f9f70adfbd185e299af4"
 metafile = true
 
 [[files]]
@@ -1864,7 +1864,7 @@ metafile = true
 
 [[files]]
 file = "mods/radiant-gear.pw.toml"
-hash = "24cce958af7e38a592c1ef2fc4b95f1a90d42572fb476393a4cd3f7859666c9b"
+hash = "0769e162810d1d35105b3c777f8acdb52970b32f77da15d09c88c4e41eb2a3c4"
 metafile = true
 
 [[files]]
@@ -2049,12 +2049,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-embeddium-options-mod-compat.pw.toml"
-hash = "c96d1b94e3fa7c56d05bc98442bf6c99cb91cc5e72fdf1440bcc460414629dcd"
+hash = "a6aead809acc1b986a22ed1c56a100a113019a2da4c617cbe03c39818b84df08"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "b2df4875ea3dda12815946d855c239d2df20cca16aa4fa419c403cef1cfae554"
+hash = "c2291f9f060c44e8b652532319484b56fa3d4009ed713e69ef2d35bad4ac3c61"
 metafile = true
 
 [[files]]
@@ -2149,7 +2149,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylish-effects.pw.toml"
-hash = "f34794201fe55ff603ab0b363eccf17183420466d1a801e49dec9ae7c1814b91"
+hash = "57c8a70a50741b76d02e922859e6c4509fd8ea9903b2488c44499b13e7bba3f8"
 metafile = true
 
 [[files]]
@@ -2244,7 +2244,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-darkness-forge-updated-fork.pw.toml"
-hash = "cdd0fd1c244047917d0a46fa057d0f65552d0c1ff9748aaaf31eba1a974184f7"
+hash = "cb2e5381ef3000d3bffb8bf6bbb5d9a7e75dca67199d987baea1dc9be23784c7"
 metafile = true
 
 [[files]]
@@ -2600,19 +2600,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/the-rename-compat-project.pw.toml"
 hash = "59762cbb7156c5aa21855cc125bb4ad639059c14705d7c8ccdf0263d2f5398cb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/when-dungeons-arise-loot-tweaks.pw.toml"
-hash = "ea574c3bde3cca63d5c4bd1f69431c70a3519a811bc66690ffd6c370efff3b7e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/when-dungeons-arise-no-flying-structures.pw.toml"
-hash = "c6772217e939752571590592e309068906a6b0c2defa56cfbcb846b979f681c5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/when-dungeons-arise-spacing-tweaks.pw.toml"
-hash = "743763741aaea892ff4d9e5d373b18d9ecf55c71c7b1f428a2603ba063a944e3"
 metafile = true
