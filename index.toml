@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "563897345d05630e51559eb65e3f0b1d568a09f4087fef05c4542a2e61a589bc"
+hash = "06511b7404d961f26a498bc130c1bb3d91894d1792680eab08a953a76dc19b8c"
 metafile = true
 
 [[files]]
@@ -1614,7 +1614,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "635f6dda7d005ec9f6c105b41d445efab91946a8f2deeb591d5535e8feb12c30"
+hash = "c4feb088c602a4bb777057714ae94d29919d2464db49baf37c4b86c67592a00e"
 metafile = true
 
 [[files]]
@@ -2279,7 +2279,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "fcbfc014353102d1bde68677b94aa9e55f2b1f168eebb3753397e662084a3245"
+hash = "33957f0fc68cf7200423e1dcc7e9d97fd9c5ded3c2db5278e5ea6bb6941e97cb"
 metafile = true
 
 [[files]]
