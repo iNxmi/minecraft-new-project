@@ -1,0 +1,13 @@
+name = "Create: Cold Sweat"
+filename = "create_cold_sweat-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Arx7g8V4/versions/YL3nDdaX/create_cold_sweat-1.1.2.jar"
+hash-format = "sha512"
+hash = "ac16d3d923a7956605cb8ea4eca994af2a0c41e7f714006bfb6045cfa9aabac01d9bef2d84c751efa484b1573298a6abf6ca9a01607ce7bd2ef4395aa529dfa7"
+
+[update]
+[update.modrinth]
+mod-id = "Arx7g8V4"
+version = "YL3nDdaX"

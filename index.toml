@@ -151,6 +151,11 @@ hash = "2581b982a38a5c714073f2a859e5638f12eea9259c6b22e0dc056e296cb8edf8"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mediumcore.pw.toml"
 hash = "3a03f5f86f111c81acccc445a710f31a72e54170fe3225aa244f3aef6b7379d6"
 metafile = true
@@ -477,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "d923dcf0425babe1b516bf9f0751d4be691cfff70bd311d51d069142cd824eaf"
+hash = "0bdcf1c5057873c78db71bee196ccf5ec846f6cf82f639b094668b3ba92e151f"
 metafile = true
 
 [[files]]
@@ -508,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/cluttered.pw.toml"
 hash = "ed2d2c6d1ec169ded3fef3262d1dfab23d0fd41d243e8bd7ada934d95ef606d0"
+metafile = true
+
+[[files]]
+file = "mods/cold-sweat.pw.toml"
+hash = "f908b067476b78b86c84f6ecb5c8211ee345582dac96899a33e8c538fe1e6bc6"
 metafile = true
 
 [[files]]
@@ -621,6 +631,11 @@ hash = "48593789853beef0f3a4fe3184b61c0df48f8f0f10cc3b7436ebab7e335b8c7f"
 metafile = true
 
 [[files]]
+file = "mods/create-cold-sweat.pw.toml"
+hash = "aa61e53ba1c3e9819e372eefe1ccaf2ef2fbe34d6b40bbc0c3d9f5e55171944a"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "8845c6e549e63cef58e420a081b87e1db4230ea02efc835c74b8dab37e183148"
 metafile = true
@@ -633,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "cc98c01686dca35eb74faf1a39fe006f0517ee2095f64922fdbd7d26c64a7f50"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-dark.pw.toml"
+hash = "4c9f2947a9919899f83c19b75f8d4f4c96dde73028d19dd14fa67d2268d64c07"
 metafile = true
 
 [[files]]
@@ -1833,6 +1853,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "6b5af5436645a6d990324f845314edbcdc9977131f7ea2b79694ef97f011cc51"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "fc6fbe4edaef15637092d30600743dec1bc9bf6055f71a5ff026df108fa2b532"
 metafile = true
 
 [[files]]
