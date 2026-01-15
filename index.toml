@@ -25,6 +25,10 @@ file = "config/paxi/datapacks/BoP x FD Bark Cutting Compat.zip"
 hash = "40aca9f794a08cec9c352967602bf7033246156e07d613f849ff1e6d75f42c32"
 
 [[files]]
+file = "config/paxi/datapacks/Create Immersive Aircrafts Datapack 1.20.1 - 1.2.zip"
+hash = "a4e8daecca7fc916cfa1692df546a83054d39c9adebb48dfcac9b4e46692bc08"
+
+[[files]]
 file = "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
 hash = "e7444cde0a4df808545b1b89daab457516ff6d879ee969a98957c00c5f1923a3"
 
@@ -110,7 +114,7 @@ hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "4df494aed1e605f6ed5bc3c1a21905410cec7d85b7cc8dc7820f76f32942dc1c"
+hash = "0e36a672d228515346a1ea3a7b655cef085d27fbf4d168d56eb30a456e2cf8b8"
 
 [[files]]
 file = "config/subtle_effects/items.toml"
@@ -159,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "b25c2921b742209b005bb3362ab77e69867fd81f64aca6420ce7c1bfecaf969e"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "bc9bc4dc5e09b5213fb158a83d63d5def7bb016c3cef65405f8f2f6c0c62b158"
 metafile = true
 
 [[files]]
@@ -612,6 +621,11 @@ hash = "48593789853beef0f3a4fe3184b61c0df48f8f0f10cc3b7436ebab7e335b8c7f"
 metafile = true
 
 [[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "8845c6e549e63cef58e420a081b87e1db4230ea02efc835c74b8dab37e183148"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "f3210935646f7b029ad3e3b0f7b917cb72305ac43b51a8cb9849a7b38e7c20e2"
 metafile = true
@@ -629,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "24b4b865f408c6a24f75c5327de85ea11726b78231d1cd8271ebfef77174f1c8"
+metafile = true
+
+[[files]]
+file = "mods/create-factory.pw.toml"
+hash = "f36203d5c8ef8c6dd11299464bb0ae91757108d353d1288728e2f759770b6b26"
 metafile = true
 
 [[files]]
@@ -687,6 +706,11 @@ hash = "f12b1658ed6fa8009a428e32053131d392d78d4290f216e8bd0c28bb38d2838a"
 metafile = true
 
 [[files]]
+file = "mods/create-threaded-trains.pw.toml"
+hash = "3c7aa1e213def089a6eaa89a8c4c51eade5ae89e1a674c03181a46690c340764"
+metafile = true
+
+[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "89db426dfb5f947a8b449b8c58460947cadda7c73f5ad1f2eec20b2ba1c33432"
 metafile = true
@@ -694,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "e408c93a8ce2b0cc8ecb1b9b8ae6dc5e51075f27a6ad06958551ee3a6edc750b"
+metafile = true
+
+[[files]]
+file = "mods/createaddoncompatibility.pw.toml"
+hash = "abc9d37db15b923cab7bab5561e1ca7bf842d82a62ee04a1e20a4c4e9c031433"
 metafile = true
 
 [[files]]
@@ -2394,6 +2423,10 @@ metafile = true
 [[files]]
 file = "resourcepacks/Better_Modded_GUI.zip"
 hash = "e161a18333fb2bf8acb897cf689f7f1419d9dba1fe341a98316395953df3ffb4"
+
+[[files]]
+file = "resourcepacks/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip"
+hash = "5cea67204fb10f4c1b41b1d43b4638074d746cdbff4a90c96e80d20386ea3cb8"
 
 [[files]]
 file = "resourcepacks/Mandalas_Legacy_Gui_Background.zip"
