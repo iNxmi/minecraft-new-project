@@ -1324,7 +1324,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemphysic.pw.toml"
-hash = "3cf907c144a4360071c8461da6eae9a7e14e92386c5c47b9ae810ae567e48041"
+hash = "32eaee59ed67abeb9d59918ca89d6254bea3db09425cc6032386ffb516ac47da"
 metafile = true
 
 [[files]]
@@ -1665,11 +1665,6 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "d17e6cdfdc89ce8a6ea9fc794ec9382faa17476d1a98b799abb3a83acfdb64b5"
-metafile = true
-
-[[files]]
-file = "mods/neruina.pw.toml"
-hash = "2b11b034d979d4a8f67c761ad2e93f582073cacfe5af51a4f3e0a48510af2dc3"
 metafile = true
 
 [[files]]
