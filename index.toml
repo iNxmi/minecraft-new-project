@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "81b041611d98561df4fe0dbf66fd42cec3bde61e30d24cf77fed8dca772390f8"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "246809f67d66ec62d3cff6d28cb885d26b2cd2cc16cceb64a4da4dc763c4da2d"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "b5c6877471605ebeeaf8a38662ec85a4ea403417b15f966a1c8860006410a3b3"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -743,11 +751,6 @@ hash = "d971cebc0d5d7490edf22e3f93ae0c3ed768f667fc9b33174f406d0bbc59b690"
 metafile = true
 
 [[files]]
-file = "mods/dawn-of-time.pw.toml"
-hash = "c1d7928f9c030bda160376b39302745659aeaa6b21d919de33fe63cbf77c517d"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "e2a8d7840d6c76e574e7da63a4603c83ac5dea4496c18613cea97442ff9a8001"
 metafile = true
@@ -1455,11 +1458,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-herbal-brews.pw.toml"
 hash = "283da2817881f2fc0d8c21bad0f8aedf8f243247865e42da031cb63e503531ae"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-lilis-lucky-lures.pw.toml"
-hash = "34a0d4860ddfec3195c63decae8cbf09d3a22d7cb0a9c7ae6bfe869dce9c3e2b"
 metafile = true
 
 [[files]]
