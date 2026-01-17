@@ -9,6 +9,10 @@ file = "config/coldsweat/client.toml"
 hash = "86b714696713a71536098662a0261acdb3d55b52d8f5415571326392e8a99be9"
 
 [[files]]
+file = "config/darkness.properties"
+hash = "38a55f2ed92c84b56628e8acfe8be8626bb62893b8ac8c294d94e13a1e61877c"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "5561c7c1c49a8ee6ee98b6f4db60444e787e58a7db82776cb0950974aece0c46"
 
