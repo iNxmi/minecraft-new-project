@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ae2/client.json"
+hash = "521d7f2d1af7899b5b1feb1ee9aaf4818e33d864f654b6c83cd362dea244c4d0"
+
+[[files]]
+file = "config/coldsweat/client.toml"
+hash = "86b714696713a71536098662a0261acdb3d55b52d8f5415571326392e8a99be9"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "246809f67d66ec62d3cff6d28cb885d26b2cd2cc16cceb64a4da4dc763c4da2d"
+
+[[files]]
+file = "config/itemphysic-client.json"
+hash = "ae267d3d5922fd532338c9172fb0a7581fbf07996c0027c2e3355f60d0bcf0e3"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
@@ -1572,11 +1584,6 @@ hash = "70f7ca9747c2f03f83515837ee3ee5f385fafe7c3d2c5d824fd332498aa15985"
 metafile = true
 
 [[files]]
-file = "mods/lighty.pw.toml"
-hash = "94aa69e3f800f454553aa7f80b8e28a4751d58487775100fb60ae16bbd799259"
-metafile = true
-
-[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "d6da6a17a0060f9a29fda665b6b934e551c9de5be19d095ada23efdadf4ebdd9"
 metafile = true
@@ -2234,11 +2241,6 @@ metafile = true
 [[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "57c8a70a50741b76d02e922859e6c4509fd8ea9903b2488c44499b13e7bba3f8"
-metafile = true
-
-[[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "c65f972be49ab11e858d39b76c0df939f1e5a76ddfca220971f183d2ee621869"
 metafile = true
 
 [[files]]
