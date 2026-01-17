@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "06511b7404d961f26a498bc130c1bb3d91894d1792680eab08a953a76dc19b8c"
+hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-blocks-bogies.pw.toml"
-hash = "48593789853beef0f3a4fe3184b61c0df48f8f0f10cc3b7436ebab7e335b8c7f"
+hash = "d6d7fe6a648a5001449b4a3056afe1856a1d51cb74d6ccd1503e1d9aefaa633e"
 metafile = true
 
 [[files]]
@@ -903,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "94e1ae26546c1150e0b0eb4b9254d34e850a93a78a5c56319538db72f076f897"
+hash = "dd92b7e2abf827d08d8801ba1f705d5527701a2f928e1f1a8ef957797554e857"
 metafile = true
 
 [[files]]
@@ -1178,7 +1178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "64426fd63554594b3d2d2390cae5183309bb1ac2116db0baa77f1957d3eee4ac"
+hash = "e4bf02e4f4d64894c96ef07b68762f90c138bb202665bc6b377e000c715f2efd"
 metafile = true
 
 [[files]]
@@ -1718,7 +1718,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c4feb088c602a4bb777057714ae94d29919d2464db49baf37c4b86c67592a00e"
+hash = "32ebc8e9c6d09c9f460f0f2815a6e5d5d68c73c75eb912b474c210689a9809f1"
 metafile = true
 
 [[files]]
@@ -2113,7 +2113,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "8bd0b258c46e38af4dc66cef9869ce6d14d2a2093b37793dba967438be858f9c"
+hash = "5e8655b4de0773e4ec6fc151e91c5f79e455ce1e4cecf2c22fc4e3056b6f7c5c"
 metafile = true
 
 [[files]]
