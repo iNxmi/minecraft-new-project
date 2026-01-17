@@ -10,7 +10,7 @@ hash = "86b714696713a71536098662a0261acdb3d55b52d8f5415571326392e8a99be9"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "246809f67d66ec62d3cff6d28cb885d26b2cd2cc16cceb64a4da4dc763c4da2d"
+hash = "5561c7c1c49a8ee6ee98b6f4db60444e787e58a7db82776cb0950974aece0c46"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -123,10 +123,6 @@ hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "84b3d53024a28980412cb8d5d8c2a6648b4ad50610335f78806e48ded040e2cd"
-
-[[files]]
-file = "config/subtle_effects/items.toml"
-hash = "bd00d8134e13054e066075099c10f6124b87fab0309f57c8957ed9c1726d7b9c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1844,11 +1840,6 @@ hash = "ea0949d24e6f1861d818def09246e20302a2ac2fa6038aa2089eea3567588956"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "094861e35fc668fd806ca39560036c20e6741d716856a8d8c1df7edee3788bf2"
-metafile = true
-
-[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "48a02d5990203034096404cf31a4bf16fea15b90480eb7fcd4d7d98bc5708b25"
 metafile = true
@@ -2191,6 +2182,11 @@ metafile = true
 [[files]]
 file = "mods/spawners-plus.pw.toml"
 hash = "43fbc30b46015d66efd652a8d40c590efb5109819dc548602b7a8d87d2786891"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "e9a34b571a46d23747d49768e070fa0b4e8b8f05c3cb3a39da66e127bba78ef2"
 metafile = true
 
 [[files]]
