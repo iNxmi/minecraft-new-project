@@ -396,6 +396,11 @@ hash = "2de6ca2548970d8faa79b1568835fe8b691fe3733c2ff0e6ec99d8739825337f"
 metafile = true
 
 [[files]]
+file = "mods/bushier-flowers.pw.toml"
+hash = "51184861aae2edaf000aaa2862f837417d3582e24f68dea2d0b171598dd5b0bb"
+metafile = true
+
+[[files]]
 file = "mods/bygone-nether.pw.toml"
 hash = "2b94bfdb0b9b30e2622343b83252dd099bee61c366af073eb29a094aa171692c"
 metafile = true
@@ -408,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "e56e1d5a0b31b9903f338b374d7e7d5dba4b50fa88dd49a1bd87c548e766eb4a"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "3814c25e243d7c5bd7f47e6f8870bdf264dcafd279ac4c84b0392bf00f4ac227"
 metafile = true
 
 [[files]]
@@ -861,6 +871,11 @@ hash = "089d745516dcd4fbc02be4649cf631aeb9e0669f41026e7498d1e2def87ceef4"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "7ca15ce12f8d401fd52401cc645b1f8abeae7a80d07b1c8b29a7776f171a77bd"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c9b752f02cb5b20cd8dab9dac8c3951667fe1c01c5378ede202e07c57e379070"
 metafile = true
@@ -948,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "9d863afb4e5ea03969d5edbe21bf6846c9311b29358c78ae686cf517ef2d8179"
+metafile = true
+
+[[files]]
+file = "mods/edf-remastered.pw.toml"
+hash = "b8f4c6a7a6ca91737bdae663eebc6315dcf2a4fcb0ad7715aa8730bb6f0c1382"
 metafile = true
 
 [[files]]
@@ -1857,7 +1877,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "f196325b4828ae87d3723fa735388994cf040f645814dfae7a59b0a64d4dfd45"
+hash = "b3355ac090493d10301e70655887d0fa9a758e4b985631480c54585dcded946a"
 metafile = true
 
 [[files]]
@@ -2038,6 +2058,11 @@ metafile = true
 [[files]]
 file = "mods/scholar.pw.toml"
 hash = "8d02f8db5b78de045433d26c4c42d1d150a17cedf02734f6220bd31bfa403670"
+metafile = true
+
+[[files]]
+file = "mods/scribble.pw.toml"
+hash = "df1b5464f5b59b42724929071d4dd8a31be95d0e4e4fcf07f98bd9ade0a7bc59"
 metafile = true
 
 [[files]]
@@ -2391,11 +2416,6 @@ hash = "51ed03482a7bee5b5be63085aa6f2e89d4e9aa71bbca054c327ec3379dcaf39b"
 metafile = true
 
 [[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "0b2d5829a3bf03f97d931cddcaf1e6fb9a616f7535c3afd19629388a1ecbc417"
-metafile = true
-
-[[files]]
 file = "mods/voidtotem.pw.toml"
 hash = "5c1b0359a68a6604782d1c0e8a0baed1aaddb34036cc531ec223929e744e6c40"
 metafile = true
@@ -2428,6 +2448,11 @@ metafile = true
 [[files]]
 file = "mods/wither-spawn-fix.pw.toml"
 hash = "a059f246f3211d8c8579733b0fbc1e0e3ded4e2dfe168c795c1726dee61a7331"
+metafile = true
+
+[[files]]
+file = "mods/withering-heights.pw.toml"
+hash = "e2d6cb25e4d486ccdb11e4e78ab2f32ef3732a56063621ad64924f43ae410f7e"
 metafile = true
 
 [[files]]
