@@ -866,11 +866,6 @@ hash = "089d745516dcd4fbc02be4649cf631aeb9e0669f41026e7498d1e2def87ceef4"
 metafile = true
 
 [[files]]
-file = "mods/distant-friends.pw.toml"
-hash = "7ca15ce12f8d401fd52401cc645b1f8abeae7a80d07b1c8b29a7776f171a77bd"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "c9b752f02cb5b20cd8dab9dac8c3951667fe1c01c5378ede202e07c57e379070"
 metafile = true
@@ -1176,6 +1171,11 @@ hash = "7abc03988587a7f2e63d97ecf341016d6c4ed4c61f355b3fee4f508ab4e51bd5"
 metafile = true
 
 [[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "9fd68ed0b2b69ddabb1cc6c6c13251c4894a7a017cdd80032d92759954270e15"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "1850643cf5d129bd4b03d8a390b6517002f44742c797c769dc2bf444fa486cdb"
 metafile = true
@@ -1458,6 +1458,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "1c3dce9ce6100ae67aa74b458e1ca7f0303af01f2c79a8e7b58cb219b9e78b09"
+metafile = true
+
+[[files]]
+file = "mods/joinprotection.pw.toml"
+hash = "ca2cf0fb56f79e338dc366df1909f18709a1637d61ba94c109f5dbd7e8c0f0cb"
 metafile = true
 
 [[files]]

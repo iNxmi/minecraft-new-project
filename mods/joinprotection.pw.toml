@@ -1,0 +1,13 @@
+name = "JoinProtection"
+filename = "joinprotection-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ebb733d736b1f1e1d77ce0a0dc344fb9c10d10b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6639397
+project-id = 1284495
