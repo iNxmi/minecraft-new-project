@@ -6,4 +6,3 @@
 * Clouds = FANCY in video settings for [Better Clouds](https://modrinth.com/mod/better-clouds) mod and disable DH cloud rendering
 
 # Todo
-* remove cable facades from emi ae2

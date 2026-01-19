@@ -126,6 +126,11 @@ hash = "427c4329155375b0c1736dee341d8d78dae91ff6cbb5d8365a5e500f56cdbe72"
 metafile = true
 
 [[files]]
+file = "mods/aa4-atlas.pw.toml"
+hash = "8ef719e2cb5395601019b47775eb9d401241c1eadb521a0d98f34a84ca6f3ab2"
+metafile = true
+
+[[files]]
 file = "mods/abridged.pw.toml"
 hash = "e781e4915939352277b67f14eba0889472b6f0e794e68040382ca1087a21bdf3"
 metafile = true
@@ -2028,6 +2033,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "8d9cfd22181ae67b178a4ce2e29c05262170fbfba46435dbfb090e73856e0c88"
+metafile = true
+
+[[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "6261cd3d06d48a9ec84641922fe4e64bad38ce941cc561946e0c1457e37e658b"
 metafile = true
 
 [[files]]
