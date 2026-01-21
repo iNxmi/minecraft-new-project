@@ -17,6 +17,10 @@ file = "config/darkness.properties"
 hash = "38a55f2ed92c84b56628e8acfe8be8626bb62893b8ac8c294d94e13a1e61877c"
 
 [[files]]
+file = "config/flimsytorches-common.toml"
+hash = "dc21deff88f807ef16f709d98b3b7384ab73059f6d7fd84eb8a1160c9ec4899c"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "5561c7c1c49a8ee6ee98b6f4db60444e787e58a7db82776cb0950974aece0c46"
 
