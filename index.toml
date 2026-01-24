@@ -33,6 +33,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "0daf80e215d32244b09f4dea4b99c3bea65533014ba70c87f3be8e076a974c14"
 
 [[files]]
+file = "config/explorerscompass-common.toml"
+hash = "cc77d22e61ddfe197bba07dd72df435618540b21cfd98d00e9d809d471fc7e46"
+
+[[files]]
 file = "config/flimsytorches-common.toml"
 hash = "dc21deff88f807ef16f709d98b3b7384ab73059f6d7fd84eb8a1160c9ec4899c"
 
