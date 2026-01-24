@@ -1,11 +1,9 @@
 *.jar
 /cache/
 /.packwiz-cache/
-options.txt
 logs/
 crash-reports/
 screenshots/
-shaderpacks/
 world/
 saves/
 .idea/

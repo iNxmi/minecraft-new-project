@@ -1,20 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "cde7042beff242375f48d0f148391d062bf3f88d48254a7d1fbbc50ed3fb1314"
+
+[[files]]
 file = "config/ae2/client.json"
 hash = "8afb95956263dc15075a282bd98bfc0460eea955450145e6a867993692544015"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "8fbfff7812ebfc73ed6c3214d13f6abfa1572059fa5bbf83ec12b048f7a26385"
 
 [[files]]
 file = "config/antique-atlas.toml"
 hash = "9d85c7ca5510d6caf8d7a7955ed7f01dac05b38f2d675e32fef2c8e695d108c2"
 
 [[files]]
-file = "config/coldsweat/client.toml"
-hash = "86b714696713a71536098662a0261acdb3d55b52d8f5415571326392e8a99be9"
-
-[[files]]
 file = "config/darkness.properties"
 hash = "38a55f2ed92c84b56628e8acfe8be8626bb62893b8ac8c294d94e13a1e61877c"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "b8fa22658875033415b71546052f2da007bf976a6183c4820ce839dc5df3c323"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "32d611dc7d50f5ba31b77bab4183449f97d9de500071fe87f24ab5786b1e5757"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "0daf80e215d32244b09f4dea4b99c3bea65533014ba70c87f3be8e076a974c14"
 
 [[files]]
 file = "config/flimsytorches-common.toml"
@@ -125,12 +141,20 @@ file = "config/paxi/datapacks/ichphilipp-s-endcity-better-end-1-18-1.zip"
 hash = "29f133eb00798f3440719f5fdec9ca46de0311fb97e480cb19bdbc3f610f8048"
 
 [[files]]
-file = "config/resourcepackoverrides.json"
-hash = "84b3d53024a28980412cb8d5d8c2a6648b4ad50610335f78806e48ded040e2cd"
+file = "config/paxi/resourcepack_load_order.json"
+hash = "89a86742f6110ea11b461860ec4eda79e3adf059272f1e1a0f2e1e6690dfd736"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
 hash = "e21508056bdf132d9fe02c8e1f10c8cbdb1a4c6111cc7ff9dbb77ac3da244f35"
+
+[[files]]
+file = "config/sparsestructures.json5"
+hash = "2640c7dd1df9a6f5cd10df774dbad11fffda132ae578d13bd187fdbe793f28df"
+
+[[files]]
+file = "config/tide.json"
+hash = "a84ebb2930801cc31a88f66823693dbe3b754ac1b0e77c77991ab27a8b699207"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -538,11 +562,6 @@ hash = "ed2d2c6d1ec169ded3fef3262d1dfab23d0fd41d243e8bd7ada934d95ef606d0"
 metafile = true
 
 [[files]]
-file = "mods/cold-sweat.pw.toml"
-hash = "a62d470f5952103cf48987c58c24c0b946479d943498efebc5592d2edc438f9e"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "47f3fff4efd281aceac44bbc1ceb7366da6663039b068d7735f2ae89e197de26"
 metafile = true
@@ -645,11 +664,6 @@ metafile = true
 [[files]]
 file = "mods/create-blocks-bogies.pw.toml"
 hash = "d6d7fe6a648a5001449b4a3056afe1856a1d51cb74d6ccd1503e1d9aefaa633e"
-metafile = true
-
-[[files]]
-file = "mods/create-cold-sweat.pw.toml"
-hash = "aa61e53ba1c3e9819e372eefe1ccaf2ef2fbe34d6b40bbc0c3d9f5e55171944a"
 metafile = true
 
 [[files]]
@@ -930,11 +944,6 @@ metafile = true
 [[files]]
 file = "mods/dusty-decorations.pw.toml"
 hash = "61b6d0ae3b4f0c978334d70a65c7842168d689311a9891ee06363f2711c541a7"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "b4e39eaf05f752f5160666b4fc9d4488cd51edebff597f32bb14e139dd5e085e"
 metafile = true
 
 [[files]]
@@ -1248,11 +1257,6 @@ hash = "361a2451dc12db42636eed5aab8c03f8a281347504e0131346a3ec8b8273333b"
 metafile = true
 
 [[files]]
-file = "mods/global-gamerules.pw.toml"
-hash = "2be698c364f54d13630757ed61f561a7656bd83d87c000070434284fd2a7e7b5"
-metafile = true
-
-[[files]]
 file = "mods/gnetum.pw.toml"
 hash = "6aa2f865a09ca8971d383f66dbdc1e05fa0d8a0ada5a62a10bd5179bdd128243"
 metafile = true
@@ -1473,11 +1477,6 @@ hash = "1c3dce9ce6100ae67aa74b458e1ca7f0303af01f2c79a8e7b58cb219b9e78b09"
 metafile = true
 
 [[files]]
-file = "mods/joinprotection.pw.toml"
-hash = "ca2cf0fb56f79e338dc366df1909f18709a1637d61ba94c109f5dbd7e8c0f0cb"
-metafile = true
-
-[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "dca44614a72da5f7d2d57823cc54aaf3335d652c1a447a6e5df2e60365a6ea95"
 metafile = true
@@ -1675,11 +1674,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "1d9d0760b65fa9e1bfd4efe7e9fc7a6a59b3aebd0764b94a84a33d1755434d8c"
-metafile = true
-
-[[files]]
-file = "mods/mindful-darkness.pw.toml"
-hash = "4e3c8819e601ad0d8b6ab3c44b48e084a9bed935123fe755e59cddcc28278800"
 metafile = true
 
 [[files]]
@@ -2020,11 +2014,6 @@ metafile = true
 [[files]]
 file = "mods/reset-controls-confirmation.pw.toml"
 hash = "9ba26e46f79e603d79d1c27362373f49d65a6c66b8272fa4547245fd076f3435"
-metafile = true
-
-[[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "d39eeff5293acc92b61586de375f1b29daf53ecabd92c247afed87d2dd120e2d"
 metafile = true
 
 [[files]]
@@ -2624,11 +2613,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/farmers-delight-cutting-compat.pw.toml"
 hash = "8931bb9797e1764e737cd4db05d926feef1681946a051b5ca788e6a4294cfac9"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-waystones-texture.pw.toml"
-hash = "926e90d0c821bed39efbbc29bd7f1df3547ed8fe44e7272f758ee1aa3d8246fd"
 metafile = true
 
 [[files]]
