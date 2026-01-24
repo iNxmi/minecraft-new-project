@@ -13,10 +13,6 @@ file = "config/alexsmobs.toml"
 hash = "8fbfff7812ebfc73ed6c3214d13f6abfa1572059fa5bbf83ec12b048f7a26385"
 
 [[files]]
-file = "config/antique-atlas.toml"
-hash = "9d85c7ca5510d6caf8d7a7955ed7f01dac05b38f2d675e32fef2c8e695d108c2"
-
-[[files]]
 file = "config/darkness.properties"
 hash = "38a55f2ed92c84b56628e8acfe8be8626bb62893b8ac8c294d94e13a1e61877c"
 
