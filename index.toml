@@ -358,11 +358,6 @@ hash = "1578832ce1ba375b13d4a2e4da155631f1d9935d4cd14b9920714027622a47f8"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "6a144cc70e30220d743320fd99debd3aeab1dc6c4913cafa9cf8f02a020c5344"
-metafile = true
-
-[[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "a45bbe1f9c5947251c59bb51adfb7493e4023d5728dab1e6b8f116fdf8bf896f"
 metafile = true
@@ -720,11 +715,6 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "053339e6cd1d20ad23dc80504fb3cee0d428043614aedd4f7f0f7fa790f7b11f"
-metafile = true
-
-[[files]]
-file = "mods/create-o-plenty.pw.toml"
-hash = "d58248bc33a9993e01d23468777c212d6f96485b525e1ff33d5f5850deaa4e04"
 metafile = true
 
 [[files]]
@@ -1250,11 +1240,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "01e61be303d676aa32b3a32077b5a5162fc78af97040eb994d42f3a625ebee67"
-metafile = true
-
-[[files]]
-file = "mods/geophilic.pw.toml"
-hash = "a6f5fd27a60f46ace6243bd3def02c0c7fdb910ea680b27e5585a37a250e7e33"
 metafile = true
 
 [[files]]
@@ -2023,11 +2008,6 @@ hash = "a1079630c822a02623dd4118445df8f8a37b5f7a9908d095c6b9367bfb7b20e6"
 metafile = true
 
 [[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "8413d600aeb771e93f65606d170115438d078e9e135936466910fc52b2e0f3e3"
-metafile = true
-
-[[files]]
 file = "mods/reintegrated-chipped.pw.toml"
 hash = "e97fbd18d9959c3b64f75f62c5e49928547ce5cf9384f49cacacb2b362d150f5"
 metafile = true
@@ -2485,6 +2465,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "703ac25f49d286f20ae9f932dfb35c859f4185876260474801896ba05c9ca2c8"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "a4adbe9faf5b891bfafdb122f7808f7870b6ea915af393deea41406498d109ab"
 metafile = true
 
 [[files]]
