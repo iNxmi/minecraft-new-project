@@ -1507,7 +1507,7 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "6f482dbba15d41ef598d73d51d5c19c15b68926f6e95abdd38338643dc3b2f3f"
+hash = "481cc9765a61653ef25e572f1c49dbe1f4279873c1a0e0f0c24fa742a88ef740"
 metafile = true
 
 [[files]]
@@ -1888,6 +1888,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "b920cfe11db68343829869f6b693eb31ea122e6d0776e05433dd4ed8b8b74679"
+metafile = true
+
+[[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "051c791539eea4ca61799d8a99738dc062978ef8ae47e08e452fb3c77262aeff"
 metafile = true
 
 [[files]]
