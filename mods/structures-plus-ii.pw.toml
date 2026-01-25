@@ -1,0 +1,13 @@
+name = "Structures Plus II"
+filename = "structuresplus.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YvlKLQoK/versions/z3bze1sw/structuresplus.jar"
+hash-format = "sha512"
+hash = "ee0d745bf4ce708c9856fff701ab69ad46d513d5d4a76dee2b69874865d35baf3f2a00029ca36d46b21a39e4c70fc4619aacaae0cce1ffcb1b48aa43fd5895c8"
+
+[update]
+[update.modrinth]
+mod-id = "YvlKLQoK"
+version = "z3bze1sw"

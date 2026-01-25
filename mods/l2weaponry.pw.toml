@@ -1,0 +1,13 @@
+name = "L2 Weaponry"
+filename = "l2weaponry-2.5.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7q7kOZix/versions/T1AxyyUw/l2weaponry-2.5.4.jar"
+hash-format = "sha512"
+hash = "d3e58548f6bef6396d16e9a119b7f8ce8bbc4171db49ff9d54fcca8fe4d7854e0f2d28f062d65128938d43d5d02e9a180185efc2e706f0726de9631013fc12e6"
+
+[update]
+[update.modrinth]
+mod-id = "7q7kOZix"
+version = "T1AxyyUw"

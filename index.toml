@@ -263,6 +263,11 @@ hash = "577f73640d26fcf3f513b8303cc7ba5eae03c90d6aedff7602d050d9fee71185"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
+metafile = true
+
+[[files]]
 file = "mods/audio-improvements.pw.toml"
 hash = "e17ab11d904146f77b729074286c0162a8ede4f6b6c999cc2b7dd53582e5a56c"
 metafile = true
@@ -928,6 +933,11 @@ hash = "f8052c3c4b5dd0664c577e313a348019e80b885e47161739cd776b96d01a91e7"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-now-loading.pw.toml"
+hash = "44b7ecde1f4731158dd293327cf784e18c097a549e8ac234eed73a2965b33289"
+metafile = true
+
+[[files]]
 file = "mods/dusty-decorations.pw.toml"
 hash = "61b6d0ae3b4f0c978334d70a65c7842168d689311a9891ee06363f2711c541a7"
 metafile = true
@@ -1064,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "63080c5acbd9e9597343f2953222900d3bb5a44049131991c45b6e48352dfaa3"
+hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
 metafile = true
 
 [[files]]
@@ -1200,6 +1210,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "c433bd6781383166138ba87613ad257b9319d0343049ca265e80af852f90308b"
+metafile = true
+
+[[files]]
+file = "mods/fruits-delight.pw.toml"
+hash = "56c13de005d72f6006247fb1997c9c1ac2c30127a3746b947d4fb891d9fc7da5"
 metafile = true
 
 [[files]]
@@ -1408,6 +1423,11 @@ hash = "f824b2f55a8648147deb8272002dfa9ee991d38a956159ebddd128b5ca929430"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "9b09efa63dc082b778bbd1888ac2bdea4eb514823c0c4e3258e323c52b6e66bf"
+metafile = true
+
+[[files]]
 file = "mods/it-takes-a-pillage.pw.toml"
 hash = "78abd8d4fe8b41a82b27adc981208240cae9b469114347824132832be0b57faf"
 metafile = true
@@ -1505,6 +1525,41 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "d6f72ad685580eb26a498b6e2f763e7c09aecb5e0ad43b64106f2e5e12d51052"
+metafile = true
+
+[[files]]
+file = "mods/l2-complements.pw.toml"
+hash = "8cb991fead90c62ba94d6c3e711991b60bb318680c36c7a8c07cbfbe4c8f2bc5"
+metafile = true
+
+[[files]]
+file = "mods/l2archery.pw.toml"
+hash = "7d4a0b3e2aa47a87a56230d6e43dbea48a37e2d1ddbb98da9b63b7ed50198441"
+metafile = true
+
+[[files]]
+file = "mods/l2artifacts.pw.toml"
+hash = "7f8da71e42625046c66ea83c7ca9f65819f6deaf319ded4d96615e53feee0684"
+metafile = true
+
+[[files]]
+file = "mods/l2backpack.pw.toml"
+hash = "62cf8869952a42b7aaec7b0eed46b6e5269986071b8da6eb779c85859259303c"
+metafile = true
+
+[[files]]
+file = "mods/l2hostility.pw.toml"
+hash = "5ceb988b3c1e8e284f88c91a602b97c48d08f59660e8afcab31b8962310ee855"
+metafile = true
+
+[[files]]
+file = "mods/l2library.pw.toml"
+hash = "448a5b18a17f48e560087ca0a4a6cbab8ca9c00d36f3314dba4f48a017b97555"
+metafile = true
+
+[[files]]
+file = "mods/l2weaponry.pw.toml"
+hash = "43e72e6438d159b5f23af060090875e45ca8de4cd9b27ab5ae1c74e0cdbec8e9"
 metafile = true
 
 [[files]]
@@ -1889,7 +1944,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "f835b38e1d68b6e74471a49def584c7ef5b6baff26af2bed189bf1e3c45eb163"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
@@ -1920,6 +1975,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "ee473cc05307597a13ab5ed6a7e3ccc17a62339ac0ab9e2c9367a42daaf9fb51"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
@@ -2000,6 +2060,11 @@ metafile = true
 [[files]]
 file = "mods/reintegrated-chipped.pw.toml"
 hash = "e97fbd18d9959c3b64f75f62c5e49928547ce5cf9384f49cacacb2b362d150f5"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "071431afe4ae064387606fac09482058c41c0d3875b23140205597e4eea55d35"
 metafile = true
 
 [[files]]
@@ -2245,6 +2310,11 @@ metafile = true
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "18b8d3d5f09c63f064e96f3e0d941c6054f7a90f68bb554861ca1f1e20a897c2"
+metafile = true
+
+[[files]]
+file = "mods/structures-plus-ii.pw.toml"
+hash = "2d9d22840f8f0ad5188066b48e8d71809aabaf95260269e537df7ed293d8e556"
 metafile = true
 
 [[files]]
